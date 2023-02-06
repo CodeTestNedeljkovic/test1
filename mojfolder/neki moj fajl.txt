@@ -1,4 +1,4 @@
 Prva izmena na testnoj grani
 
 
-sad je izmena na grana1
+sad je izmena na grana1, a ovo je sa grane2
